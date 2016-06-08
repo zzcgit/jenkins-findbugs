@@ -2,10 +2,10 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.qiujy</groupId>
-	<artifactId>testweb_svn</artifactId>
+	<artifactId>findbugs_test</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>testweb_svn Maven Webapp</name>
+	<name>findbugs_test Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<dependencies>
 		<dependency>
@@ -34,7 +34,7 @@
 		</dependency>
 	</dependencies>
 	<build>
-		<finalName>testweb_svn</finalName>
+		<finalName>findbugs_test</finalName>
 		<defaultGoal>install</defaultGoal>
 		<plugins>
 			<plugin>
